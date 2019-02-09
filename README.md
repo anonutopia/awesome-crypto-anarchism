@@ -4,6 +4,12 @@
 
 ## Countries, Nations and Communities
 
+*Countries, nations and communities residing in cyber-space following crypto-anarchistic ideals*
+
 ## Major Cryptocurrencies
 
-## Instant Messengers / Communication
+*All major cryptocurrencies*
+
+## Instant Messengers, Email and Communication
+
+*Ecrypted means of communications*
