@@ -4,7 +4,16 @@ A curated list of awesome crypto-anarchist apps, communities and software.  Insp
  
 **What is crypto-anarchism?**
  
-[Wikipedia](https://en.wikipedia.org/wiki/Crypto-anarchism) - Crypto-anarchism (or crypto-anarchy) is a form of anarchy accomplished through computer technology. Crypto-anarchists employ cryptographic software to evade persecution and harassment while sending and receiving information over computer networks, in an effort to protect their privacy, their political freedom, and their economic freedom. 
+[Wikipedia](https://en.wikipedia.org/wiki/Crypto-anarchism) - Crypto-anarchism (or crypto-anarchy) is a form of anarchy accomplished through computer technology. Crypto-anarchists employ cryptographic software to evade persecution and harassment while sending and receiving information over computer networks, in an effort to protect their privacy, their political freedom, and their economic freedom.
+
+#### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
+
+### Contents
+
+- [Awesome Crypto-Anarchism](#awesome-crypto-anarchism)
+    - [Countries, Nations and Communities](#countries-nations-and-communities)
+    - [Major Cryptocurrencies](#major-cryptocurrencies)
+    - [Instant Messengers, Email and Communication](#instant-messengers-email-and-communication)
 
 ## Countries, Nations and Communities
 
