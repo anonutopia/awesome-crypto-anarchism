@@ -12,6 +12,7 @@ A curated list of awesome crypto-anarchist apps, communities and software.  Insp
 
 * [Anonutopia](https://www.anonutopia.com) - Smart contract based decentralized Internet country with Open Source apps.
 * [Bitnation](https://tse.bitnation.co/) - Decentralised Borderless Voluntary Nation (DBVN).
+* [Decenturion](https://decenturion.com/) - Decentralized autonomous state / society.
 
 ## Major Cryptocurrencies
 
@@ -23,3 +24,7 @@ A curated list of awesome crypto-anarchist apps, communities and software.  Insp
 ## Instant Messengers, Email and Communication
 
 *Ecrypted means of communications*
+
+* [Protonmail](https://protonmail.com/) - End-to-end encrypted email and world's largest secure email service.
+* [Signal](https://signal.org/) - An encrypted communications app for Android and iOS.
+* [Telegram](https://telegram.org/) - Cloud-based instant messaging and voice over IP service.
