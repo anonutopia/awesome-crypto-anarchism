@@ -1,2 +1,3 @@
-# awesome-crypto-anarchism
- A curated list of awesome crypto-anarchism apps, communities and software.
+# Awesome Crypto-Anarchism
+
+ A curated list of awesome crypto-anarchist apps, communities and software.
