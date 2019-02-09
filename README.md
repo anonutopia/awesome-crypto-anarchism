@@ -10,7 +10,7 @@ A curated list of awesome crypto-anarchist apps, communities and software.  Insp
 
 *Countries, nations and communities residing in cyber-space following crypto-anarchistic ideals*
 
-* [Anonutopia](https://www.anonutopia.com) - Smart contract based decentralized Internet country with its own cryptocurrencies, universal basic income and Open Source apps. 
+* [Anonutopia](https://www.anonutopia.com) - Smart contract based decentralized Internet country with Open Source apps. 
 
 ## Major Cryptocurrencies
 
