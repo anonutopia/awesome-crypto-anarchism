@@ -14,7 +14,8 @@ A curated list of awesome crypto-anarchist apps, communities and software.  Insp
     - [Countries, Nations and Communities](#countries-nations-and-communities)
     - [Major Cryptocurrencies](#major-cryptocurrencies)
     - [Instant Messengers, Email and Communication](#instant-messengers-email-and-communication)
-
+    - [Important Documents](#important-documents)
+    
 ## Countries, Nations and Communities
 
 *Countries, nations and communities residing in cyber-space following crypto-anarchistic ideals*
