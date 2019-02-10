@@ -37,3 +37,9 @@ A curated list of awesome crypto-anarchist apps, communities and software.  Insp
 * [Protonmail](https://protonmail.com/) - End-to-end encrypted email and world's largest secure email service.
 * [Signal](https://signal.org/) - An encrypted communications app for Android and iOS.
 * [Telegram](https://telegram.org/) - Cloud-based instant messaging and voice over IP service.
+
+## Important Documents
+
+*Important documents describing and defining crypto-anarchism*
+
+* [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) - The document that introduced the basic principles of crypto-anarchism.
