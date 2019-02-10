@@ -43,4 +43,6 @@ A curated list of awesome crypto-anarchist apps, communities and software.  Insp
 
 *Important documents describing and defining crypto-anarchism*
 
+* [Wikipedia](https://en.wikipedia.org/wiki/Crypto-anarchism) - Wikipedia article on crypto-anarchism.
 * [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) - The document that introduced the basic principles of crypto-anarchism.
+* [The Cyphernomicon](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt) - Crypto-anarhism FAQ with basic ideas and effects of crypto-anarchism.
