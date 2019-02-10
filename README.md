@@ -30,6 +30,7 @@ A curated list of awesome crypto-anarchist apps, communities and software.  Insp
 
 * [Anote](https://www.anonutopia.com/anote/) - Anonutopia's main cryptocurrency and banking token.
 * [Bitcoin](https://bitcoin.org/) - First cryptocurrency, a form of electronic cash.
+* [Ethereum](https://www.ethereum.org/) - Decentralized platform for applications featuring smart contract (scripting) functionality.
 
 ## Instant Messengers, Email and Communication
 
