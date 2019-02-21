@@ -27,6 +27,8 @@ It is anarchy of individualism, security, anonimity and privacy that is accompli
 * [Anonutopia](https://www.anonutopia.com) - Smart contract based decentralized Internet country with Open Source apps.
 * [Bitnation](https://tse.bitnation.co/) - Decentralised Borderless Voluntary Nation (DBVN).
 * [Decenturion](https://decenturion.com/) - Decentralized autonomous state / society.
+* [Paralelni Polis] (https://paralelnipolis.cz/) - Paralelni Polis Prague is the most important place on the Earth when it comes to cryptoanarchy! Freedom, decentralization and cryptoanarchy because - cypherpunk future is now!
+* [Paralelna Polis] (https://paralelnapolis.sk/) - Paralelna Polis Bratislava
 
 ## Major Cryptocurrencies
 
