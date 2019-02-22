@@ -6,6 +6,10 @@ A curated list of awesome crypto-anarchist apps, communities and software.  Insp
  
 [Wikipedia](https://en.wikipedia.org/wiki/Crypto-anarchism) - Crypto-anarchism (or crypto-anarchy) is a form of anarchy accomplished through computer technology. Crypto-anarchists employ cryptographic software to evade persecution and harassment while sending and receiving information over computer networks, in an effort to protect their privacy, their political freedom, and their economic freedom.
 
+Cryptoanarchy is not an anarchy of the black blocks. 
+It is anarchy of individualism, security, anonimity and privacy that is accomplished through computer and cryptographic technology. It relies on the pure mathematical principles of the cryptography and principles of privacy, anonymity and decentralized economy.
+
+
 #### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
 ### Contents
@@ -23,6 +27,8 @@ A curated list of awesome crypto-anarchist apps, communities and software.  Insp
 * [Anonutopia](https://www.anonutopia.com) - Smart contract based decentralized Internet country with Open Source apps.
 * [Bitnation](https://tse.bitnation.co/) - Decentralised Borderless Voluntary Nation (DBVN).
 * [Decenturion](https://decenturion.com/) - Decentralized autonomous state / society.
+* [Paralelni Polis] (https://paralelnipolis.cz/) - Paralelni Polis Prague is the most important place on the Earth when it comes to cryptoanarchy! Freedom, decentralization and cryptoanarchy because - cypherpunk future is now!
+* [Paralelna Polis] (https://paralelnapolis.sk/) - Paralelna Polis Bratislava
 
 ## Major Cryptocurrencies
 
